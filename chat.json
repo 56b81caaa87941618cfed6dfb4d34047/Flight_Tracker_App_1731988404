@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "test",
+        "message_id": "guest19112024051320",
+        "timestamp": "19112024051321",
+        "component_file_name": "page_details_cards_component_1731992981",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for your message, let's get back to your project.",
         "message_id": "guest19112024051251",
