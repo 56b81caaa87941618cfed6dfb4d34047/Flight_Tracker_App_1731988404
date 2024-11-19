@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Thank you for your message; let's focus on your project.",
+        "timestamp": "19112024051322",
+        "message_id": "guest19112024051320"
+    },
+    {
         "role": "user",
         "content": "test",
         "timestamp": "19112024051321",
